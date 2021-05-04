@@ -1,0 +1,17 @@
+{
+    "Cadastro": [
+        {
+            "nome": "Vinicius",
+            "end": "Rua Oscarlino marcondes teixeira",
+            "numero": 545,
+            "bairro": "Ponte Alta"
+        },
+        
+        {
+            "nome": "João da silva",
+            "end": "Rua dos bobos",
+            "numero": 0,
+            "bairro": "Um bairro qualquer"
+        }
+    ]
+    }
